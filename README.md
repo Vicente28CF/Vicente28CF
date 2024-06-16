@@ -140,7 +140,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Primero resuelve el problema, luego escribe el código....✨</b>
 
 </div>
 <br>
