@@ -124,7 +124,7 @@
 
 <div align='center'>
 
-## <b>Primero resuelve el problema, luego escribe el código....✨</b>
+## <b>"Primero resuelve el problema, luego escribe el código"-John Johnson...✨</b>
 
 </div>
 <br>
