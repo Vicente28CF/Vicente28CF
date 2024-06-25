@@ -95,8 +95,9 @@
 <br><br><br>
 
 <div align='center'>
-## <b>"Primero resuelve el problema, luego escribe el código" - John Johnson...✨</b>
+  <h2><b>"Primero resuelve el problema, luego escribe el código" - John Johnson...✨</b></h2>
 </div>
+
 <br><br><br>
 
 ---
