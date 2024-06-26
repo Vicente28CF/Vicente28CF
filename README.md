@@ -15,7 +15,7 @@
 - Self-taught and passionate Frontend and Backend Developer.
 - Learning about Cybersecurity in my spare time.
 - Currently learning Web Development on my own.
-- I am currently open for an internship or a new job opportunity, this is my [resume](https://www.canva.com/design/DAF9xSrzeeI/0nqrw5bJsBoanmPHLkWF_w/view?utm_content=DAF9xSrzeeI&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+- I am currently open for an internship or a new job opportunity, this is my [resume](https://drive.google.com/file/d/1crbfjzLillJuTscoGbcCWOVUjGMA4lC1/view?usp=drive_link).
 
 
 <br><br>
