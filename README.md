@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src="" width="50px"></picture> **About Me**
+## **About Me**
 
 <picture> <img align="right" src="https://tse1.mm.bing.net/th?id=OIG4.BZFKso5d6XbvoNrAPFWz&pid=ImgGn" width="150px"></picture>
 
