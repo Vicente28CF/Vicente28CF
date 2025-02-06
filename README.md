@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Desarrollador apasionado por la tecnología y la innovación</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/tu-usuario?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=VicenteCF28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/VicenteCF28?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
