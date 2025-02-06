@@ -36,6 +36,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicente28CF&theme=radical" alt="GitHub Streak" />
 </p>
 
+## 📊 Estadísticas de Lenguajes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicente28CF&layout=compact&langs_count=10&theme=radical" />
+</p>
+
 ---
 
 ## 🤝 ¿Quieres colaborar?  
@@ -49,4 +54,6 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
 
